@@ -1,1 +1,3 @@
-# ComputerScience3
+- This is a sample file for my furst guthub project in CS3
+- Please clone this repository
+- https://github.com/AndrewKurtYBenlot/ComputerScience3
